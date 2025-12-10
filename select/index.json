@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "SPARK-AGAIN",
+  "base_artist": "Aimer",
+  "createdAt": "2025-12-10T04:26:44.880770Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/01_SPARK-AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "SPARK - AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/02_SPARK_-_AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/03_SPARK-AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "SPARK‐AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/04_SPARK‐AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Spark Again (from \"Fire Force\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/05_Spark_Again_(from__Fire_Force_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Spark Again (from \"Fire Force\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/06_Spark_Again_(from__Fire_Force_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/07_SPARK-AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN (Crystal Rock & Pule Remix) - SACRA BEATS Singles",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_SPARK-AGAIN_(Crystal_Rock_&_Pule_Remix)_-_SACRA_BEATS_Singles_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN (\"Walpurgisnacht\" Live at TOKYO GARDEN THEATER)",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/09_SPARK-AGAIN_(_Walpurgisnacht__Live_at_TOKYO_GARDEN_THEATER)_Aimer.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_SPARK-AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Spark Again",
+      "artist": "Sapphire",
+      "has_synced": true,
+      "path": "select/11_Spark_Again_Sapphire.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "SPARK‐AGAIN",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/12_SPARK‐AGAIN_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN (Fire Force Season 2 Opening)",
+      "artist": "Dima Lancaster",
+      "has_synced": false,
+      "path": "select/13_SPARK-AGAIN_(Fire_Force_Season_2_Opening)_Dima_Lancaster.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Spark-Again (From \"Fire Force Season 2\")",
+      "artist": "Shayne Orok",
+      "has_synced": false,
+      "path": "select/14_Spark-Again_(From__Fire_Force_Season_2_)_Shayne_Orok.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Spark-Again (Fire Force) [feat. Bruna Higs]",
+      "artist": "Miura Jam",
+      "has_synced": false,
+      "path": "select/15_Spark-Again_(Fire_Force)_[feat._Bruna_Higs]_Miura_Jam.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spark Again (From \"Fire Force\")",
+      "artist": "Megami33",
+      "has_synced": true,
+      "path": "select/16_Spark_Again_(From__Fire_Force_)_Megami33.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Spark Again (from \"Fire Force\")",
+      "artist": "AmaLee",
+      "has_synced": true,
+      "path": "select/17_Spark_Again_(from__Fire_Force_)_AmaLee.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Spark Again (From \"Fire Force\")",
+      "artist": "Laharl Square",
+      "has_synced": true,
+      "path": "select/18_Spark_Again_(From__Fire_Force_)_Laharl_Square.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "SPARK-AGAIN (Crystal Rock & Pule Remix) - SACRA BEATS Singles",
+      "artist": "Aimer,Crystal Rock,Pule",
+      "has_synced": true,
+      "path": "select/19_SPARK-AGAIN_(Crystal_Rock_&_Pule_Remix)_-_SACRA_BEATS_Singles_Aimer,Crystal_Rock,Pule.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SPARK-AGAIN",
+      "artist": "Aimer",
+      "has_synced": false,
+      "path": "select/pl_01_SPARK-AGAIN_Aimer.txt"
+    }
+  ]
+}
